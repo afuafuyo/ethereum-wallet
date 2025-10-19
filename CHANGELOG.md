@@ -12,3 +12,7 @@
 
 1. Fix delete wallet navigation bug
 2. Fix some UI bugs
+
+#### v0.0.4
+
+1. Fix bugs
