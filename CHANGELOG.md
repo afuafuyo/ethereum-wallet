@@ -16,3 +16,8 @@
 #### v0.0.4
 
 1. Fix bugs
+
+#### v0.0.5
+
+1. Fix edit account bug
+2. Add QR code to backup page
