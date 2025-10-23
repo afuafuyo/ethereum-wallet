@@ -21,3 +21,7 @@
 
 1. Fix edit account bug
 2. Add QR code to backup page
+
+#### v0.0.6
+
+1. Optimize network fee
